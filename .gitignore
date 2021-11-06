@@ -48,4 +48,5 @@ Thumbs.db
 #Exclude files
 angular
 /.angular/cache/babel-webpack
+.angular/
 
